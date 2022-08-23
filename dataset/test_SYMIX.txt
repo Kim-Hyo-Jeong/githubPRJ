@@ -1,0 +1,3 @@
+images/non-makeup/vSYYZ38.png segs/non-makeup/vSYYZ38.png
+images/non-makeup/vSYYZ70.png segs/non-makeup/vSYYZ70.png
+images/non-makeup/vSYYZ74.png segs/non-makeup/vSYYZ74.png

@@ -1,0 +1,3 @@
+images/makeup/XYH-163.png segs/makeup/XYH-163.png
+images/makeup/vFG756.png segs/makeup/vFG756.png
+images/makeup/vFG209.png segs/makeup/vFG209.png
